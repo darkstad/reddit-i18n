@@ -385,7 +385,7 @@ msgstr "por favor insira uma data que esteja pelo menos %(day)s no passado"
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "address problem: %(message)s"
-msgstr "problema de enderço: %(message)s"
+msgstr "problema de endereço: %(message)s"
 
 #: r2/controllers/errors.py:79
 #, python-format
@@ -443,39 +443,39 @@ msgstr "por favor confirme o formulário"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
-msgstr ""
+msgstr "ajuda a traduzir o reddit para a tua lingua"
 
 #: r2/controllers/feedback.py:41 r2/lib/menus.py:140
 msgid "help translate"
-msgstr ""
+msgstr "ajuda a traduzir"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
-msgstr ""
+msgstr "auto ajuda de serviço"
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "sem comentários (ainda)"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "todos %d commentários"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "comentarios %d de topo"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "mostrar todos %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "mostrar %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -483,11 +483,11 @@ msgstr "crie um reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "cria uma comunidade"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
-msgstr ""
+msgstr "prémios"
 
 #: r2/controllers/front.py:559 r2/lib/menus.py:118
 msgid "related"
@@ -495,7 +495,7 @@ msgstr "relacionado"
 
 #: r2/controllers/front.py:577
 msgid "other discussions"
-msgstr ""
+msgstr "outras discussões"
 
 #: r2/controllers/front.py:596 r2/controllers/front.py:640
 msgid "search results"
@@ -503,7 +503,7 @@ msgstr "pesquisar resultados"
 
 #: r2/controllers/front.py:691
 msgid "seen it"
-msgstr ""
+msgstr "já vi"
 
 #: r2/controllers/front.py:798 r2/templates/login.html:88
 #: r2/templates/prefdelete.html:56 r2/templates/register.html:88
@@ -512,57 +512,57 @@ msgstr "senha"
 
 #: r2/controllers/front.py:818 r2/controllers/front.py:834
 msgid "verify email"
-msgstr ""
+msgstr "verificar email"
 
 #: r2/controllers/front.py:864 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr ""
+msgstr "fazer reset à password"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "sair"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:171
 msgid "welcome back"
-msgstr ""
+msgstr "bemvindo de volta"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "obrigado"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "boa tentativa."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "o ouro foi entregue"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "obrigado por comprar reddit gold!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "obrigado por comprar creddits!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Para os gastar, visita [/gold](/gold) ou a página da tua pessoa favorita"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "obrigado por oferecer reddit gold"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "O teu presente para %s foi entregue."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -570,50 +570,50 @@ msgstr "submissões mais recentes"
 
 #: r2/controllers/listingcontroller.py:429
 msgid "top scoring links"
-msgstr ""
+msgstr "links com o melhor score"
 
 #: r2/controllers/listingcontroller.py:431
 msgid "most controversial links"
-msgstr ""
+msgstr "links mais controversos"
 
 #: r2/controllers/listingcontroller.py:438
 msgid "you're really bored now, eh?"
-msgstr ""
+msgstr "estás mesmo aborrecido agora, eh?"
 
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "págins do(s) %(user)s"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
 msgid "comments by %(user)s"
-msgstr ""
+msgstr "comentários de %(user)s "
 
 #: r2/controllers/listingcontroller.py:504
 #, python-format
 msgid "submitted by %(user)s"
-msgstr ""
+msgstr "submetido por %(user)s"
 
 #: r2/controllers/listingcontroller.py:505
 #, python-format
 msgid "liked by %(user)s"
-msgstr ""
+msgstr "gostado por %(user)s"
 
 #: r2/controllers/listingcontroller.py:506
 #, python-format
 msgid "disliked by %(user)s"
-msgstr ""
+msgstr "odiado por %(user)s"
 
 #: r2/controllers/listingcontroller.py:507
 #, python-format
 msgid "hidden by %(user)s"
-msgstr ""
+msgstr "escondido por %(user)s"
 
 #: r2/controllers/listingcontroller.py:508
 #, python-format
 msgid "profile for %(user)s"
-msgstr ""
+msgstr "perfil de %(user)s"
 
 #: r2/controllers/listingcontroller.py:621
 #: r2/controllers/listingcontroller.py:630 r2/lib/menus.py:485
@@ -624,15 +624,15 @@ msgstr "tudo"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "não lido"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
-msgstr ""
+msgstr "respostas a comentários"
 
 #: r2/controllers/listingcontroller.py:625
 msgid "post replies"
-msgstr ""
+msgstr "respostas a posts"
 
 #: r2/controllers/listingcontroller.py:638 r2/templates/redditheader.html:88
 msgid "messages"
@@ -648,23 +648,23 @@ msgstr "reddits:"
 
 #: r2/controllers/listingcontroller.py:871
 msgid "comments"
-msgstr ""
+msgstr "comentários"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "A Minha Identidade"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Acesso ao meu username do reddit e data de criação"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr ""
+msgstr "maior de 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
-msgstr ""
+msgstr "promovido por ti"
 
 #: r2/controllers/promotecontroller.py:443
 msgid "failed to authenticate card.  sorry."
